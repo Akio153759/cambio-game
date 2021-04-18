@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/lblCartaUno"
+        android:layout_width="80dp"
+        android:layout_height="130dp"
+        android:layout_gravity=""
+        android:layout_marginBottom="28dp"
+        android:background="#FF3333"
+        android:gravity="center"
+        android:text="1"
+        android:textAlignment="center"
+        android:textSize="40sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.262"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/lblCartaDos"
+        android:layout_width="80dp"
+        android:layout_height="130dp"
+        android:layout_gravity=""
+        android:layout_marginBottom="28dp"
+        android:background="#338FFF"
+        android:gravity="center"
+        android:text="2"
+        android:textAlignment="center"
+        android:textSize="40sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.722"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/lblCartaTres"
+        android:layout_width="80dp"
+        android:layout_height="130dp"
+        android:layout_gravity=""
+        android:layout_marginBottom="196dp"
+        android:background="#338FFF"
+        android:gravity="center"
+        android:text="3"
+        android:textAlignment="center"
+        android:textSize="40sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.262"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/lblCartaCuatro"
+        android:layout_width="80dp"
+        android:layout_height="130dp"
+        android:layout_gravity=""
+        android:layout_marginBottom="196dp"
+        android:background="#338FFF"
+        android:gravity="center"
+        android:text="4"
+        android:textAlignment="center"
+        android:textSize="40sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.722"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/lblMasoVisible"
+        android:layout_width="80dp"
+        android:layout_height="130dp"
+        android:layout_gravity=""
+        android:layout_marginTop="28dp"
+        android:background="#338FFF"
+        android:gravity="center"
+        android:text="0"
+        android:textAlignment="center"
+        android:textSize="40sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.746"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/lblAuxUno"
+        android:layout_width="80dp"
+        android:layout_height="130dp"
+        android:layout_gravity=""
+        android:layout_marginTop="212dp"
+        android:background="#338FFF"
+        android:gravity="center"
+        android:text="A1"
+        android:textAlignment="center"
+        android:textSize="40sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.262"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/lblAuxDos"
+        android:layout_width="80dp"
+        android:layout_height="130dp"
+        android:layout_gravity=""
+        android:layout_marginTop="212dp"
+        android:background="#338FFF"
+        android:gravity="center"
+        android:text="A2"
+        android:textAlignment="center"
+        android:textSize="40sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.722"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "690301571304",
+    "firebase_url": "https://cambio-juego-cartas.firebaseio.com",
+    "project_id": "cambio-juego-cartas",
+    "storage_bucket": "cambio-juego-cartas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690301571304:android:1454a763ce696771e6795d",
+        "android_client_info": {
+          "package_name": "com.tamadev.cambio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690301571304-lvqh92cisn9s9u84f140i4ssl77oikq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDghK1dWTEJ48_bqrVyChmVk51EwzhyQV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690301571304-lvqh92cisn9s9u84f140i4ssl77oikq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
